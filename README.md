@@ -17,3 +17,6 @@ Testing a model
 ```bash
 python test.py
 ```
+
+### Model Checkpoint
+https://huggingface.co/npcprojects/NPC-diagnosis-using-Non-contrast-MRI
